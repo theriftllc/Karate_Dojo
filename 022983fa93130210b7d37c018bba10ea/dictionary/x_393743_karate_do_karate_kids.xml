@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="095bcffe93130210b7d37c018bba101f" label="Karate Kids" max_length="40" name="x_393743_karate_do_karate_kids" type="collection">
+        <element attributes="omit_sys_original=true" label="Monthly Dues" max_length="20" name="monthly_dues" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pants Size" max_length="40" name="pants_size" type="choice">
+            <choice/>
+        </element>
+        <element label="Payment Status" max_length="40" name="payment_status" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Payment Date" max_length="40" name="payment_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element label="Parent Contact Number" max_length="40" name="parent_contact_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Choice" max_length="40" name="payment_choice" type="choice">
+            <choice/>
+        </element>
+        <element label="Student Contact Number" max_length="40" name="student_contact_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Belt Level" max_length="40" name="belt_level" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Parent Name" max_length="40" name="parent_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="T Shirt Size" max_length="40" name="t_shirt_size" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Student ID" max_length="40" name="student_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+    </element>
+</database>

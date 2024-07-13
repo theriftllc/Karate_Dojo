@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_393743_karate_do_karate_kids">x_393743_karate_do_karate_kids</category>
+        <maximum_digits>7</maximum_digits>
+        <number>2000</number>
+        <prefix>KAR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-13 21:43:24</sys_created_on>
+        <sys_id>155bcffe93130210b7d37c018bba106f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KAR</sys_name>
+        <sys_package display_value="Karate Dojo" source="x_393743_karate_do">022983fa93130210b7d37c018bba10ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Karate Dojo">022983fa93130210b7d37c018bba10ea</sys_scope>
+        <sys_update_name>sys_number_155bcffe93130210b7d37c018bba106f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-13 21:43:24</sys_updated_on>
+    </sys_number>
+</record_update>
